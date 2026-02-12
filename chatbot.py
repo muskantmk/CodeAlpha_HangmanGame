@@ -1,5 +1,3 @@
-# Basic Chatbot - CodeAlpha Internship Task 4
-
 print("🤖 Chatbot: Hello! I am your chatbot.")
 print("Type 'bye' to exit.\n")
 
@@ -24,3 +22,4 @@ while True:
     
     else:
         print("Chatbot: Sorry, I don't understand that.")
+
